@@ -1,6 +1,6 @@
 # Sistem Kendali Suhu Pengganti Air Otomatis pada Aquarium dengan FuzzyLogic Controller IOT Blynk
 
-Proyek ini menggunakan Arduino sebagai kontroller utama kemudian dengan menggunakan komunikasi serial ESP8266 untuk mengirimkan data pada Blynk untuk memonitoring kondisi air secara Real-Time. Proyek ini adalah pesanan untuk Skripsi Teknik Elektro. [Skripsi Mahasiswa Teknik Elektro - UNESA]
+Proyek ini menggunakan Arduino sebagai kontroller utama kemudian dengan menggunakan komunikasi serial ESP8266 untuk mengirimkan data pada Blynk untuk memonitoring kondisi air secara Real-Time. Proyek ini adalah pesanan untuk Skripsi Teknik Elektro. [Skripsi Teknik Elektro - UNESA]
 
 ## Contacs us : 
 * [Frendi RoboTech](https://www.instagram.com/frendi.co/)
